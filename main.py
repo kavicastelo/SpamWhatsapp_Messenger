@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import pyautogui, time
 time.sleep(3)
 f = open("script", 'r')
